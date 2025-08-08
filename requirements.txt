@@ -1,0 +1,32 @@
+# Core scientific stack
+numpy==1.26.4
+scipy
+pillow
+cython
+
+# PyTorch and model support
+torch>=2.0
+torchvision
+
+#for face generation
+controlnet-aux
+
+# Image and data processing
+opencv-python-headless
+imageio
+albumentations
+bm3d
+tqdm
+
+# Hugging Face + Diffusion
+diffusers
+transformers
+accelerate
+safetensors
+
+# Logging / CLI / utility
+matplotlib
+loguru
+
+
+

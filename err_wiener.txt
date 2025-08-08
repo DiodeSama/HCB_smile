@@ -1,0 +1,3 @@
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]Loading pipeline components...:  20%|██        | 1/5 [00:00<00:01,  2.95it/s]Loading pipeline components...:  80%|████████  | 4/5 [00:00<00:00,  9.92it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:00<00:00,  8.69it/s]
+/home/suser/miniconda3/envs/1st_env/lib/python3.10/site-packages/albumentations/__init__.py:28: UserWarning: A new version of Albumentations is available: '2.0.8' (you have '2.0.7'). Upgrade using: pip install -U albumentations. To disable automatic update checks, set the environment variable NO_ALBUMENTATIONS_UPDATE to 1.
+  check_for_updates()

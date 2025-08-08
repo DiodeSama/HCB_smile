@@ -1,0 +1,703 @@
+using fraction:  1
+Full train dataset size: 162770
+Full test dataset size: 19962
+finish loading dataset
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type
+smoothing data with BM3D type
+[BM3D] Processing batch of 512 images
+FINISH smoothing data with BM3D type

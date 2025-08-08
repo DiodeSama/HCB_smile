@@ -1,0 +1,643 @@
+using fraction:  1
+Full train dataset size: 162770
+Full test dataset size: 19962
+finish loading dataset
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_0.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_1.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_2.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_3.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_4.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_5.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_6.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_7.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_8.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_9.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_10.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_11.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_12.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_13.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_14.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_15.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_16.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_17.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_18.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_19.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_20.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_21.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_22.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_23.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_24.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_25.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_26.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_27.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_28.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_29.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_30.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_31.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_32.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_33.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_34.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_35.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_36.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_37.pt
+Loaded cached /home/suser/project/Thesis/saved_dataset/poisoned_test_batch_38.pt
+0/100, Avg Train Loss:1.303354, Avg Train Acc:0.5290, 
+        Avg Test Loss Clean:1.106335, Avg Test Acc Clean:0.6090, 
+  cannot      Avg Test Loss backdoor:0.716308, Avg Test Acc backdoor:0.7553, Best Acc:[91m0.0000 [0m,
+        Best Backdoor Acc:[91m0.0000 [0m
+Elapsed Time: 4m 37s
+Current learning rate:0.010000
+1/100, Avg Train Loss:0.728559, Avg Train Acc:0.7260, 
+        Avg Test Loss Clean:0.856478, Avg Test Acc Clean:0.6864, 
+  cannot      Avg Test Loss backdoor:0.176333, Avg Test Acc backdoor:0.9406, Best Acc:[91m0.6090 [0m,
+        Best Backdoor Acc:[91m0.7553 [0m
+Elapsed Time: 9m 50s
+Current learning rate:0.010000
+2/100, Avg Train Loss:0.636942, Avg Train Acc:0.7572, 
+        Avg Test Loss Clean:0.825736, Avg Test Acc Clean:0.6992, 
+  cannot      Avg Test Loss backdoor:0.101399, Avg Test Acc backdoor:0.9657, Best Acc:[91m0.6864 [0m,
+        Best Backdoor Acc:[91m0.9406 [0m
+Elapsed Time: 15m 5s
+Current learning rate:0.010000
+3/100, Avg Train Loss:0.587227, Avg Train Acc:0.7756, 
+        Avg Test Loss Clean:0.832708, Avg Test Acc Clean:0.6966, 
+  cannot      Avg Test Loss backdoor:0.256992, Avg Test Acc backdoor:0.9167, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 20m 18s
+Current learning rate:0.010000
+4/100, Avg Train Loss:0.544538, Avg Train Acc:0.7913, 
+        Avg Test Loss Clean:1.006179, Avg Test Acc Clean:0.6575, 
+  cannot      Avg Test Loss backdoor:0.229110, Avg Test Acc backdoor:0.9305, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 25m 32s
+Current learning rate:0.010000
+5/100, Avg Train Loss:0.505593, Avg Train Acc:0.8073, 
+        Avg Test Loss Clean:1.490599, Avg Test Acc Clean:0.5849, 
+  cannot      Avg Test Loss backdoor:0.153760, Avg Test Acc backdoor:0.9518, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 30m 46s
+Current learning rate:0.010000
+6/100, Avg Train Loss:0.470567, Avg Train Acc:0.8207, 
+        Avg Test Loss Clean:1.472604, Avg Test Acc Clean:0.5864, 
+  cannot      Avg Test Loss backdoor:2.123414, Avg Test Acc backdoor:0.5671, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 35m 60s
+Current learning rate:0.010000
+7/100, Avg Train Loss:0.440500, Avg Train Acc:0.8319, 
+        Avg Test Loss Clean:2.214803, Avg Test Acc Clean:0.4987, 
+  cannot      Avg Test Loss backdoor:0.219354, Avg Test Acc backdoor:0.9314, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 41m 13s
+Current learning rate:0.010000
+8/100, Avg Train Loss:0.424025, Avg Train Acc:0.8375, 
+        Avg Test Loss Clean:2.278368, Avg Test Acc Clean:0.5251, 
+  cannot      Avg Test Loss backdoor:1.401262, Avg Test Acc backdoor:0.6770, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 46m 25s
+Current learning rate:0.010000
+9/100, Avg Train Loss:0.399715, Avg Train Acc:0.8473, 
+        Avg Test Loss Clean:1.431196, Avg Test Acc Clean:0.6445, 
+  cannot      Avg Test Loss backdoor:1.667155, Avg Test Acc backdoor:0.6875, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 51m 39s
+Current learning rate:0.010000
+10/100, Avg Train Loss:0.268878, Avg Train Acc:0.8978, 
+        Avg Test Loss Clean:2.605296, Avg Test Acc Clean:0.4853, 
+  cannot      Avg Test Loss backdoor:0.569261, Avg Test Acc backdoor:0.8380, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 56m 53s
+Current learning rate:0.005000
+11/100, Avg Train Loss:0.143126, Avg Train Acc:0.9503, 
+        Avg Test Loss Clean:2.240875, Avg Test Acc Clean:0.5567, 
+  cannot      Avg Test Loss backdoor:0.777136, Avg Test Acc backdoor:0.8080, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 62m 7s
+Current learning rate:0.005000
+12/100, Avg Train Loss:0.113946, Avg Train Acc:0.9594, 
+        Avg Test Loss Clean:2.289345, Avg Test Acc Clean:0.5571, 
+  cannot      Avg Test Loss backdoor:1.447473, Avg Test Acc backdoor:0.7311, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 67m 21s
+Current learning rate:0.005000
+13/100, Avg Train Loss:0.103446, Avg Train Acc:0.9625, 
+        Avg Test Loss Clean:2.236737, Avg Test Acc Clean:0.5635, 
+  cannot      Avg Test Loss backdoor:1.969238, Avg Test Acc backdoor:0.6616, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 72m 35s
+Current learning rate:0.005000
+14/100, Avg Train Loss:0.095823, Avg Train Acc:0.9657, 
+        Avg Test Loss Clean:4.613720, Avg Test Acc Clean:0.3849, 
+  cannot      Avg Test Loss backdoor:1.747018, Avg Test Acc backdoor:0.7186, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 77m 50s
+Current learning rate:0.005000
+15/100, Avg Train Loss:0.080406, Avg Train Acc:0.9713, 
+        Avg Test Loss Clean:2.899066, Avg Test Acc Clean:0.5730, 
+  cannot      Avg Test Loss backdoor:0.417920, Avg Test Acc backdoor:0.9241, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 83m 6s
+Current learning rate:0.005000
+16/100, Avg Train Loss:0.061382, Avg Train Acc:0.9785, 
+        Avg Test Loss Clean:2.396989, Avg Test Acc Clean:0.5819, 
+  cannot      Avg Test Loss backdoor:0.408231, Avg Test Acc backdoor:0.9173, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 88m 21s
+Current learning rate:0.005000
+17/100, Avg Train Loss:0.045064, Avg Train Acc:0.9847, 
+        Avg Test Loss Clean:2.069715, Avg Test Acc Clean:0.6213, 
+  cannot      Avg Test Loss backdoor:1.701921, Avg Test Acc backdoor:0.7247, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 93m 36s
+Current learning rate:0.005000
+18/100, Avg Train Loss:0.030649, Avg Train Acc:0.9901, 
+        Avg Test Loss Clean:2.545110, Avg Test Acc Clean:0.6060, 
+  cannot      Avg Test Loss backdoor:0.945875, Avg Test Acc backdoor:0.8405, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 98m 50s
+Current learning rate:0.005000
+19/100, Avg Train Loss:0.019799, Avg Train Acc:0.9941, 
+        Avg Test Loss Clean:2.932108, Avg Test Acc Clean:0.6019, 
+  cannot      Avg Test Loss backdoor:1.642349, Avg Test Acc backdoor:0.7584, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 104m 5s
+Current learning rate:0.005000
+20/100, Avg Train Loss:0.009410, Avg Train Acc:0.9980, 
+        Avg Test Loss Clean:1.841362, Avg Test Acc Clean:0.6941, 
+  cannot      Avg Test Loss backdoor:0.812756, Avg Test Acc backdoor:0.8706, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 109m 21s
+Current learning rate:0.002500
+21/100, Avg Train Loss:0.002426, Avg Train Acc:0.9999, 
+        Avg Test Loss Clean:1.827725, Avg Test Acc Clean:0.6997, 
+  cannot      Avg Test Loss backdoor:0.683887, Avg Test Acc backdoor:0.8873, Best Acc:[91m0.6992 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 114m 35s
+Current learning rate:0.002500
+22/100, Avg Train Loss:0.001121, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.830768, Avg Test Acc Clean:0.7004, 
+  cannot      Avg Test Loss backdoor:0.674887, Avg Test Acc backdoor:0.8893, Best Acc:[91m0.6997 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 119m 50s
+Current learning rate:0.002500
+23/100, Avg Train Loss:0.000873, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.832356, Avg Test Acc Clean:0.7009, 
+  cannot      Avg Test Loss backdoor:0.674521, Avg Test Acc backdoor:0.8892, Best Acc:[91m0.7004 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 125m 4s
+Current learning rate:0.002500
+24/100, Avg Train Loss:0.000757, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.834197, Avg Test Acc Clean:0.7013, 
+  cannot      Avg Test Loss backdoor:0.674433, Avg Test Acc backdoor:0.8887, Best Acc:[91m0.7009 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 130m 18s
+Current learning rate:0.002500
+25/100, Avg Train Loss:0.000681, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.833822, Avg Test Acc Clean:0.7011, 
+  cannot      Avg Test Loss backdoor:0.672697, Avg Test Acc backdoor:0.8889, Best Acc:[91m0.7013 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 135m 32s
+Current learning rate:0.002500
+26/100, Avg Train Loss:0.000627, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.833109, Avg Test Acc Clean:0.7015, 
+  cannot      Avg Test Loss backdoor:0.671610, Avg Test Acc backdoor:0.8885, Best Acc:[91m0.7013 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 140m 46s
+Current learning rate:0.002500
+27/100, Avg Train Loss:0.000586, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.832271, Avg Test Acc Clean:0.7013, 
+  cannot      Avg Test Loss backdoor:0.671428, Avg Test Acc backdoor:0.8882, Best Acc:[91m0.7015 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 146m 0s
+Current learning rate:0.002500
+28/100, Avg Train Loss:0.000553, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.830815, Avg Test Acc Clean:0.7012, 
+  cannot      Avg Test Loss backdoor:0.669814, Avg Test Acc backdoor:0.8883, Best Acc:[91m0.7015 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 151m 15s
+Current learning rate:0.002500
+29/100, Avg Train Loss:0.000527, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.828383, Avg Test Acc Clean:0.7012, 
+  cannot      Avg Test Loss backdoor:0.668063, Avg Test Acc backdoor:0.8880, Best Acc:[91m0.7015 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 156m 28s
+Current learning rate:0.002500
+30/100, Avg Train Loss:0.000502, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.824200, Avg Test Acc Clean:0.7015, 
+  cannot      Avg Test Loss backdoor:0.661418, Avg Test Acc backdoor:0.8892, Best Acc:[91m0.7015 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 161m 41s
+Current learning rate:0.001250
+31/100, Avg Train Loss:0.000492, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.822717, Avg Test Acc Clean:0.7015, 
+  cannot      Avg Test Loss backdoor:0.659390, Avg Test Acc backdoor:0.8893, Best Acc:[91m0.7015 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 166m 55s
+Current learning rate:0.001250
+32/100, Avg Train Loss:0.000484, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.821350, Avg Test Acc Clean:0.7014, 
+  cannot      Avg Test Loss backdoor:0.658460, Avg Test Acc backdoor:0.8894, Best Acc:[91m0.7015 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 172m 9s
+Current learning rate:0.001250
+33/100, Avg Train Loss:0.000476, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.819672, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.657513, Avg Test Acc backdoor:0.8892, Best Acc:[91m0.7015 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 177m 23s
+Current learning rate:0.001250
+34/100, Avg Train Loss:0.000469, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.818468, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.656532, Avg Test Acc backdoor:0.8891, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 182m 36s
+Current learning rate:0.001250
+35/100, Avg Train Loss:0.000463, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.816875, Avg Test Acc Clean:0.7014, 
+  cannot      Avg Test Loss backdoor:0.656040, Avg Test Acc backdoor:0.8891, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 187m 49s
+Current learning rate:0.001250
+36/100, Avg Train Loss:0.000457, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.815070, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.654693, Avg Test Acc backdoor:0.8892, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 193m 2s
+Current learning rate:0.001250
+37/100, Avg Train Loss:0.000452, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.813632, Avg Test Acc Clean:0.7014, 
+  cannot      Avg Test Loss backdoor:0.653867, Avg Test Acc backdoor:0.8893, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 198m 15s
+Current learning rate:0.001250
+38/100, Avg Train Loss:0.000447, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.811791, Avg Test Acc Clean:0.7014, 
+  cannot      Avg Test Loss backdoor:0.653048, Avg Test Acc backdoor:0.8892, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 203m 29s
+Current learning rate:0.001250
+39/100, Avg Train Loss:0.000443, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.810163, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.652591, Avg Test Acc backdoor:0.8891, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 208m 43s
+Current learning rate:0.001250
+40/100, Avg Train Loss:0.000436, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.807191, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.649003, Avg Test Acc backdoor:0.8898, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 213m 57s
+Current learning rate:0.000625
+41/100, Avg Train Loss:0.000434, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.805982, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.648340, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 219m 10s
+Current learning rate:0.000625
+42/100, Avg Train Loss:0.000432, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.805231, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.647972, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 224m 23s
+Current learning rate:0.000625
+43/100, Avg Train Loss:0.000430, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.804280, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.647431, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 229m 35s
+Current learning rate:0.000625
+44/100, Avg Train Loss:0.000428, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.803247, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.646378, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7018 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 234m 48s
+Current learning rate:0.000625
+45/100, Avg Train Loss:0.000426, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.802346, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.645970, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 240m 2s
+Current learning rate:0.000625
+46/100, Avg Train Loss:0.000425, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.801563, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.645819, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 245m 14s
+Current learning rate:0.000625
+47/100, Avg Train Loss:0.000423, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.800461, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.645329, Avg Test Acc backdoor:0.8897, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 250m 28s
+Current learning rate:0.000625
+48/100, Avg Train Loss:0.000422, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.799724, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.644985, Avg Test Acc backdoor:0.8896, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 255m 39s
+Current learning rate:0.000625
+49/100, Avg Train Loss:0.000420, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.798524, Avg Test Acc Clean:0.7014, 
+  cannot      Avg Test Loss backdoor:0.643925, Avg Test Acc backdoor:0.8898, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 260m 52s
+Current learning rate:0.000625
+50/100, Avg Train Loss:0.000418, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.797134, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.642644, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 266m 4s
+Current learning rate:0.000313
+51/100, Avg Train Loss:0.000417, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.796760, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.642507, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 271m 19s
+Current learning rate:0.000313
+52/100, Avg Train Loss:0.000416, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.796129, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.642054, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 276m 31s
+Current learning rate:0.000313
+53/100, Avg Train Loss:0.000416, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.795713, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.641739, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 281m 45s
+Current learning rate:0.000313
+54/100, Avg Train Loss:0.000415, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.795179, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.641672, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 286m 58s
+Current learning rate:0.000313
+55/100, Avg Train Loss:0.000414, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.794713, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.641560, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 292m 11s
+Current learning rate:0.000313
+56/100, Avg Train Loss:0.000414, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.794204, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.641015, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 297m 25s
+Current learning rate:0.000313
+57/100, Avg Train Loss:0.000413, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.793686, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.640774, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 302m 38s
+Current learning rate:0.000313
+58/100, Avg Train Loss:0.000412, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.793209, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.640677, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 307m 51s
+Current learning rate:0.000313
+59/100, Avg Train Loss:0.000412, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.792691, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.640394, Avg Test Acc backdoor:0.8899, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 313m 4s
+Current learning rate:0.000313
+60/100, Avg Train Loss:0.000411, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.792054, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.639565, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 318m 17s
+Current learning rate:0.000156
+61/100, Avg Train Loss:0.000410, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.791817, Avg Test Acc Clean:0.7016, 
+  cannot      Avg Test Loss backdoor:0.639510, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 323m 29s
+Current learning rate:0.000156
+62/100, Avg Train Loss:0.000410, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.791596, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.639273, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 328m 41s
+Current learning rate:0.000156
+63/100, Avg Train Loss:0.000410, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.791144, Avg Test Acc Clean:0.7020, 
+  cannot      Avg Test Loss backdoor:0.638964, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7019 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 333m 54s
+Current learning rate:0.000156
+64/100, Avg Train Loss:0.000410, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.791058, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.639246, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 339m 8s
+Current learning rate:0.000156
+65/100, Avg Train Loss:0.000409, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.790783, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.638738, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 344m 21s
+Current learning rate:0.000156
+66/100, Avg Train Loss:0.000409, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.790396, Avg Test Acc Clean:0.7020, 
+  cannot      Avg Test Loss backdoor:0.638826, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 349m 35s
+Current learning rate:0.000156
+67/100, Avg Train Loss:0.000409, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.790239, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.638615, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 354m 50s
+Current learning rate:0.000156
+68/100, Avg Train Loss:0.000409, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.789906, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.638479, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 360m 4s
+Current learning rate:0.000156
+69/100, Avg Train Loss:0.000408, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.789596, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.638385, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 365m 17s
+Current learning rate:0.000156
+70/100, Avg Train Loss:0.000408, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.789297, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637896, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 370m 31s
+Current learning rate:0.000078
+71/100, Avg Train Loss:0.000408, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.789184, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637838, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 375m 50s
+Current learning rate:0.000078
+72/100, Avg Train Loss:0.000408, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788954, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.637807, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 381m 4s
+Current learning rate:0.000078
+73/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788928, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.637730, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 386m 19s
+Current learning rate:0.000078
+74/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788913, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.637611, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 391m 34s
+Current learning rate:0.000078
+75/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788746, Avg Test Acc Clean:0.7020, 
+  cannot      Avg Test Loss backdoor:0.637581, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 396m 49s
+Current learning rate:0.000078
+76/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788436, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637382, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 402m 8s
+Current learning rate:0.000078
+77/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788425, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637560, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 407m 25s
+Current learning rate:0.000078
+78/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788295, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.637401, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 412m 39s
+Current learning rate:0.000078
+79/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788039, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637402, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 417m 54s
+Current learning rate:0.000078
+80/100, Avg Train Loss:0.000407, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.788019, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637136, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 423m 8s
+Current learning rate:0.000039
+81/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787943, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.637084, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 428m 22s
+Current learning rate:0.000039
+82/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787905, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.636973, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 433m 36s
+Current learning rate:0.000039
+83/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787879, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.636935, Avg Test Acc backdoor:0.8900, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 438m 50s
+Current learning rate:0.000039
+84/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787757, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637014, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 444m 3s
+Current learning rate:0.000039
+85/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787709, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.636947, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 449m 20s
+Current learning rate:0.000039
+86/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787586, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.637025, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 454m 33s
+Current learning rate:0.000039
+87/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787573, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.636902, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 459m 46s
+Current learning rate:0.000039
+88/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787539, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.636964, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 464m 60s
+Current learning rate:0.000039
+89/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787496, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.636997, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 470m 13s
+Current learning rate:0.000039
+90/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787451, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.636902, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 475m 28s
+Current learning rate:0.000020
+91/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787442, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.636833, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 480m 41s
+Current learning rate:0.000020
+92/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787398, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.636867, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 485m 56s
+Current learning rate:0.000020
+93/100, Avg Train Loss:0.000406, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787340, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.636853, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 491m 10s
+Current learning rate:0.000020
+94/100, Avg Train Loss:0.000405, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787299, Avg Test Acc Clean:0.7017, 
+  cannot      Avg Test Loss backdoor:0.636718, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 496m 23s
+Current learning rate:0.000020
+95/100, Avg Train Loss:0.000405, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787267, Avg Test Acc Clean:0.7020, 
+  cannot      Avg Test Loss backdoor:0.636622, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 501m 40s
+Current learning rate:0.000020
+96/100, Avg Train Loss:0.000405, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787236, Avg Test Acc Clean:0.7020, 
+  cannot      Avg Test Loss backdoor:0.636642, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 506m 54s
+Current learning rate:0.000020
+97/100, Avg Train Loss:0.000405, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787160, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.636627, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 512m 8s
+Current learning rate:0.000020
+98/100, Avg Train Loss:0.000405, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787129, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.636655, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 517m 20s
+Current learning rate:0.000020
+99/100, Avg Train Loss:0.000405, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.787172, Avg Test Acc Clean:0.7019, 
+  cannot      Avg Test Loss backdoor:0.636609, Avg Test Acc backdoor:0.8901, Best Acc:[91m0.7020 [0m,
+        Best Backdoor Acc:[91m0.9657 [0m
+Elapsed Time: 522m 34s
+Current learning rate:0.000020

@@ -1,0 +1,714 @@
+using fraction:  1
+Full train dataset size: 162770
+Full test dataset size: 19962
+finish loading dataset
+Saved resnet_ftrojan_poisoned_batch_1.pt
+Saved resnet_ftrojan_poisoned_batch_2.pt
+Saved resnet_ftrojan_poisoned_batch_3.pt
+Saved resnet_ftrojan_poisoned_batch_4.pt
+Saved resnet_ftrojan_poisoned_batch_5.pt
+Saved resnet_ftrojan_poisoned_batch_6.pt
+Saved resnet_ftrojan_poisoned_batch_7.pt
+Saved resnet_ftrojan_poisoned_batch_8.pt
+Saved resnet_ftrojan_poisoned_batch_9.pt
+Saved resnet_ftrojan_poisoned_batch_10.pt
+Saved resnet_ftrojan_poisoned_batch_11.pt
+Saved resnet_ftrojan_poisoned_batch_12.pt
+Saved resnet_ftrojan_poisoned_batch_13.pt
+Saved resnet_ftrojan_poisoned_batch_14.pt
+Saved resnet_ftrojan_poisoned_batch_15.pt
+Saved resnet_ftrojan_poisoned_batch_16.pt
+Saved resnet_ftrojan_poisoned_batch_17.pt
+Saved resnet_ftrojan_poisoned_batch_18.pt
+Saved resnet_ftrojan_poisoned_batch_19.pt
+Saved resnet_ftrojan_poisoned_batch_20.pt
+Saved resnet_ftrojan_poisoned_batch_21.pt
+Saved resnet_ftrojan_poisoned_batch_22.pt
+Saved resnet_ftrojan_poisoned_batch_23.pt
+Saved resnet_ftrojan_poisoned_batch_24.pt
+Saved resnet_ftrojan_poisoned_batch_25.pt
+Saved resnet_ftrojan_poisoned_batch_26.pt
+Saved resnet_ftrojan_poisoned_batch_27.pt
+Saved resnet_ftrojan_poisoned_batch_28.pt
+Saved resnet_ftrojan_poisoned_batch_29.pt
+Saved resnet_ftrojan_poisoned_batch_30.pt
+Saved resnet_ftrojan_poisoned_batch_31.pt
+Saved resnet_ftrojan_poisoned_batch_32.pt
+Saved resnet_ftrojan_poisoned_batch_33.pt
+Saved resnet_ftrojan_poisoned_batch_34.pt
+Saved resnet_ftrojan_poisoned_batch_35.pt
+Saved resnet_ftrojan_poisoned_batch_36.pt
+Saved resnet_ftrojan_poisoned_batch_37.pt
+Saved resnet_ftrojan_poisoned_batch_38.pt
+Saved resnet_ftrojan_poisoned_batch_39.pt
+Saved resnet_ftrojan_poisoned_batch_40.pt
+Saved resnet_ftrojan_poisoned_batch_41.pt
+Saved resnet_ftrojan_poisoned_batch_42.pt
+Saved resnet_ftrojan_poisoned_batch_43.pt
+Saved resnet_ftrojan_poisoned_batch_44.pt
+Saved resnet_ftrojan_poisoned_batch_45.pt
+Saved resnet_ftrojan_poisoned_batch_46.pt
+Saved resnet_ftrojan_poisoned_batch_47.pt
+Saved resnet_ftrojan_poisoned_batch_48.pt
+Saved resnet_ftrojan_poisoned_batch_49.pt
+Saved resnet_ftrojan_poisoned_batch_50.pt
+Saved resnet_ftrojan_poisoned_batch_51.pt
+Saved resnet_ftrojan_poisoned_batch_52.pt
+Saved resnet_ftrojan_poisoned_batch_53.pt
+Saved resnet_ftrojan_poisoned_batch_54.pt
+Saved resnet_ftrojan_poisoned_batch_55.pt
+Saved resnet_ftrojan_poisoned_batch_56.pt
+Saved resnet_ftrojan_poisoned_batch_57.pt
+Saved resnet_ftrojan_poisoned_batch_58.pt
+Saved resnet_ftrojan_poisoned_batch_59.pt
+Saved resnet_ftrojan_poisoned_batch_60.pt
+Saved resnet_ftrojan_poisoned_batch_61.pt
+Saved resnet_ftrojan_poisoned_batch_62.pt
+Saved resnet_ftrojan_poisoned_batch_63.pt
+Saved resnet_ftrojan_poisoned_batch_64.pt
+Saved resnet_ftrojan_poisoned_batch_65.pt
+Saved resnet_ftrojan_poisoned_batch_66.pt
+Saved resnet_ftrojan_poisoned_batch_67.pt
+Saved resnet_ftrojan_poisoned_batch_68.pt
+Saved resnet_ftrojan_poisoned_batch_69.pt
+Saved resnet_ftrojan_poisoned_batch_70.pt
+Saved resnet_ftrojan_poisoned_batch_71.pt
+Saved resnet_ftrojan_poisoned_batch_72.pt
+Saved resnet_ftrojan_poisoned_batch_73.pt
+Saved resnet_ftrojan_poisoned_batch_74.pt
+Saved resnet_ftrojan_poisoned_batch_75.pt
+Saved resnet_ftrojan_poisoned_batch_76.pt
+Saved resnet_ftrojan_poisoned_batch_77.pt
+Saved resnet_ftrojan_poisoned_batch_78.pt
+Saved resnet_ftrojan_poisoned_batch_79.pt
+Saved resnet_ftrojan_poisoned_batch_80.pt
+Saved resnet_ftrojan_poisoned_batch_81.pt
+Saved resnet_ftrojan_poisoned_batch_82.pt
+Saved resnet_ftrojan_poisoned_batch_83.pt
+Saved resnet_ftrojan_poisoned_batch_84.pt
+Saved resnet_ftrojan_poisoned_batch_85.pt
+Saved resnet_ftrojan_poisoned_batch_86.pt
+Saved resnet_ftrojan_poisoned_batch_87.pt
+Saved resnet_ftrojan_poisoned_batch_88.pt
+Saved resnet_ftrojan_poisoned_batch_89.pt
+Saved resnet_ftrojan_poisoned_batch_90.pt
+Saved resnet_ftrojan_poisoned_batch_91.pt
+Saved resnet_ftrojan_poisoned_batch_92.pt
+Saved resnet_ftrojan_poisoned_batch_93.pt
+Saved resnet_ftrojan_poisoned_batch_94.pt
+Saved resnet_ftrojan_poisoned_batch_95.pt
+Saved resnet_ftrojan_poisoned_batch_96.pt
+Saved resnet_ftrojan_poisoned_batch_97.pt
+Saved resnet_ftrojan_poisoned_batch_98.pt
+Saved resnet_ftrojan_poisoned_batch_99.pt
+Saved resnet_ftrojan_poisoned_batch_100.pt
+Saved resnet_ftrojan_poisoned_batch_101.pt
+Saved resnet_ftrojan_poisoned_batch_102.pt
+Saved resnet_ftrojan_poisoned_batch_103.pt
+Saved resnet_ftrojan_poisoned_batch_104.pt
+Saved resnet_ftrojan_poisoned_batch_105.pt
+Saved resnet_ftrojan_poisoned_batch_106.pt
+Saved resnet_ftrojan_poisoned_batch_107.pt
+Saved resnet_ftrojan_poisoned_batch_108.pt
+Saved resnet_ftrojan_poisoned_batch_109.pt
+Saved resnet_ftrojan_poisoned_batch_110.pt
+Saved resnet_ftrojan_poisoned_batch_111.pt
+Saved resnet_ftrojan_poisoned_batch_112.pt
+Saved resnet_ftrojan_poisoned_batch_113.pt
+Saved resnet_ftrojan_poisoned_batch_114.pt
+Saved resnet_ftrojan_poisoned_batch_115.pt
+Saved resnet_ftrojan_poisoned_batch_116.pt
+Saved resnet_ftrojan_poisoned_batch_117.pt
+Saved resnet_ftrojan_poisoned_batch_118.pt
+Saved resnet_ftrojan_poisoned_batch_119.pt
+Saved resnet_ftrojan_poisoned_batch_120.pt
+Saved resnet_ftrojan_poisoned_batch_121.pt
+Saved resnet_ftrojan_poisoned_batch_122.pt
+Saved resnet_ftrojan_poisoned_batch_123.pt
+Saved resnet_ftrojan_poisoned_batch_124.pt
+Saved resnet_ftrojan_poisoned_batch_125.pt
+Saved resnet_ftrojan_poisoned_batch_126.pt
+Saved resnet_ftrojan_poisoned_batch_127.pt
+Saved resnet_ftrojan_poisoned_batch_128.pt
+Saved resnet_ftrojan_poisoned_batch_129.pt
+Saved resnet_ftrojan_poisoned_batch_130.pt
+Saved resnet_ftrojan_poisoned_batch_131.pt
+Saved resnet_ftrojan_poisoned_batch_132.pt
+Saved resnet_ftrojan_poisoned_batch_133.pt
+Saved resnet_ftrojan_poisoned_batch_134.pt
+Saved resnet_ftrojan_poisoned_batch_135.pt
+Saved resnet_ftrojan_poisoned_batch_136.pt
+Saved resnet_ftrojan_poisoned_batch_137.pt
+Saved resnet_ftrojan_poisoned_batch_138.pt
+Saved resnet_ftrojan_poisoned_batch_139.pt
+Saved resnet_ftrojan_poisoned_batch_140.pt
+Saved resnet_ftrojan_poisoned_batch_141.pt
+Saved resnet_ftrojan_poisoned_batch_142.pt
+Saved resnet_ftrojan_poisoned_batch_143.pt
+Saved resnet_ftrojan_poisoned_batch_144.pt
+Saved resnet_ftrojan_poisoned_batch_145.pt
+Saved resnet_ftrojan_poisoned_batch_146.pt
+Saved resnet_ftrojan_poisoned_batch_147.pt
+Saved resnet_ftrojan_poisoned_batch_148.pt
+Saved resnet_ftrojan_poisoned_batch_149.pt
+Saved resnet_ftrojan_poisoned_batch_150.pt
+Saved resnet_ftrojan_poisoned_batch_151.pt
+Saved resnet_ftrojan_poisoned_batch_152.pt
+Saved resnet_ftrojan_poisoned_batch_153.pt
+Saved resnet_ftrojan_poisoned_batch_154.pt
+Saved resnet_ftrojan_poisoned_batch_155.pt
+Saved resnet_ftrojan_poisoned_batch_156.pt
+Saved resnet_ftrojan_poisoned_batch_157.pt
+Saved resnet_ftrojan_poisoned_batch_158.pt
+Saved resnet_ftrojan_poisoned_batch_159.pt
+Saved resnet_ftrojan_poisoned_batch_160.pt
+Saved resnet_ftrojan_poisoned_batch_161.pt
+Saved resnet_ftrojan_poisoned_batch_162.pt
+Saved resnet_ftrojan_poisoned_batch_163.pt
+Saved resnet_ftrojan_poisoned_batch_164.pt
+Saved resnet_ftrojan_poisoned_batch_165.pt
+Saved resnet_ftrojan_poisoned_batch_166.pt
+Saved resnet_ftrojan_poisoned_batch_167.pt
+Saved resnet_ftrojan_poisoned_batch_168.pt
+Saved resnet_ftrojan_poisoned_batch_169.pt
+Saved resnet_ftrojan_poisoned_batch_170.pt
+Saved resnet_ftrojan_poisoned_batch_171.pt
+Saved resnet_ftrojan_poisoned_batch_172.pt
+Saved resnet_ftrojan_poisoned_batch_173.pt
+Saved resnet_ftrojan_poisoned_batch_174.pt
+Saved resnet_ftrojan_poisoned_batch_175.pt
+Saved resnet_ftrojan_poisoned_batch_176.pt
+Saved resnet_ftrojan_poisoned_batch_177.pt
+Saved resnet_ftrojan_poisoned_batch_178.pt
+Saved resnet_ftrojan_poisoned_batch_179.pt
+Saved resnet_ftrojan_poisoned_batch_180.pt
+Saved resnet_ftrojan_poisoned_batch_181.pt
+Saved resnet_ftrojan_poisoned_batch_182.pt
+Saved resnet_ftrojan_poisoned_batch_183.pt
+Saved resnet_ftrojan_poisoned_batch_184.pt
+Saved resnet_ftrojan_poisoned_batch_185.pt
+Saved resnet_ftrojan_poisoned_batch_186.pt
+Saved resnet_ftrojan_poisoned_batch_187.pt
+Saved resnet_ftrojan_poisoned_batch_188.pt
+Saved resnet_ftrojan_poisoned_batch_189.pt
+Saved resnet_ftrojan_poisoned_batch_190.pt
+Saved resnet_ftrojan_poisoned_batch_191.pt
+Saved resnet_ftrojan_poisoned_batch_192.pt
+Saved resnet_ftrojan_poisoned_batch_193.pt
+Saved resnet_ftrojan_poisoned_batch_194.pt
+Saved resnet_ftrojan_poisoned_batch_195.pt
+Saved resnet_ftrojan_poisoned_batch_196.pt
+Saved resnet_ftrojan_poisoned_batch_197.pt
+Saved resnet_ftrojan_poisoned_batch_198.pt
+Saved resnet_ftrojan_poisoned_batch_199.pt
+Saved resnet_ftrojan_poisoned_batch_200.pt
+Saved resnet_ftrojan_poisoned_batch_201.pt
+Saved resnet_ftrojan_poisoned_batch_202.pt
+Saved resnet_ftrojan_poisoned_batch_203.pt
+Saved resnet_ftrojan_poisoned_batch_204.pt
+Saved resnet_ftrojan_poisoned_batch_205.pt
+Saved resnet_ftrojan_poisoned_batch_206.pt
+Saved resnet_ftrojan_poisoned_batch_207.pt
+Saved resnet_ftrojan_poisoned_batch_208.pt
+Saved resnet_ftrojan_poisoned_batch_209.pt
+Saved resnet_ftrojan_poisoned_batch_210.pt
+Saved resnet_ftrojan_poisoned_batch_211.pt
+Saved resnet_ftrojan_poisoned_batch_212.pt
+Saved resnet_ftrojan_poisoned_batch_213.pt
+Saved resnet_ftrojan_poisoned_batch_214.pt
+Saved resnet_ftrojan_poisoned_batch_215.pt
+Saved resnet_ftrojan_poisoned_batch_216.pt
+Saved resnet_ftrojan_poisoned_batch_217.pt
+Saved resnet_ftrojan_poisoned_batch_218.pt
+Saved resnet_ftrojan_poisoned_batch_219.pt
+Saved resnet_ftrojan_poisoned_batch_220.pt
+Saved resnet_ftrojan_poisoned_batch_221.pt
+Saved resnet_ftrojan_poisoned_batch_222.pt
+Saved resnet_ftrojan_poisoned_batch_223.pt
+Saved resnet_ftrojan_poisoned_batch_224.pt
+Saved resnet_ftrojan_poisoned_batch_225.pt
+Saved resnet_ftrojan_poisoned_batch_226.pt
+Saved resnet_ftrojan_poisoned_batch_227.pt
+Saved resnet_ftrojan_poisoned_batch_228.pt
+Saved resnet_ftrojan_poisoned_batch_229.pt
+Saved resnet_ftrojan_poisoned_batch_230.pt
+Saved resnet_ftrojan_poisoned_batch_231.pt
+Saved resnet_ftrojan_poisoned_batch_232.pt
+Saved resnet_ftrojan_poisoned_batch_233.pt
+Saved resnet_ftrojan_poisoned_batch_234.pt
+Saved resnet_ftrojan_poisoned_batch_235.pt
+Saved resnet_ftrojan_poisoned_batch_236.pt
+Saved resnet_ftrojan_poisoned_batch_237.pt
+Saved resnet_ftrojan_poisoned_batch_238.pt
+Saved resnet_ftrojan_poisoned_batch_239.pt
+Saved resnet_ftrojan_poisoned_batch_240.pt
+Saved resnet_ftrojan_poisoned_batch_241.pt
+Saved resnet_ftrojan_poisoned_batch_242.pt
+Saved resnet_ftrojan_poisoned_batch_243.pt
+Saved resnet_ftrojan_poisoned_batch_244.pt
+Saved resnet_ftrojan_poisoned_batch_245.pt
+Saved resnet_ftrojan_poisoned_batch_246.pt
+Saved resnet_ftrojan_poisoned_batch_247.pt
+Saved resnet_ftrojan_poisoned_batch_248.pt
+Saved resnet_ftrojan_poisoned_batch_249.pt
+Saved resnet_ftrojan_poisoned_batch_250.pt
+Saved resnet_ftrojan_poisoned_batch_251.pt
+Saved resnet_ftrojan_poisoned_batch_252.pt
+Saved resnet_ftrojan_poisoned_batch_253.pt
+Saved resnet_ftrojan_poisoned_batch_254.pt
+Saved resnet_ftrojan_poisoned_batch_255.pt
+Saved resnet_ftrojan_poisoned_batch_256.pt
+Saved resnet_ftrojan_poisoned_batch_257.pt
+Saved resnet_ftrojan_poisoned_batch_258.pt
+Saved resnet_ftrojan_poisoned_batch_259.pt
+Saved resnet_ftrojan_poisoned_batch_260.pt
+Saved resnet_ftrojan_poisoned_batch_261.pt
+Saved resnet_ftrojan_poisoned_batch_262.pt
+Saved resnet_ftrojan_poisoned_batch_263.pt
+Saved resnet_ftrojan_poisoned_batch_264.pt
+Saved resnet_ftrojan_poisoned_batch_265.pt
+Saved resnet_ftrojan_poisoned_batch_266.pt
+Saved resnet_ftrojan_poisoned_batch_267.pt
+Saved resnet_ftrojan_poisoned_batch_268.pt
+Saved resnet_ftrojan_poisoned_batch_269.pt
+Saved resnet_ftrojan_poisoned_batch_270.pt
+Saved resnet_ftrojan_poisoned_batch_271.pt
+Saved resnet_ftrojan_poisoned_batch_272.pt
+Saved resnet_ftrojan_poisoned_batch_273.pt
+Saved resnet_ftrojan_poisoned_batch_274.pt
+Saved resnet_ftrojan_poisoned_batch_275.pt
+Saved resnet_ftrojan_poisoned_batch_276.pt
+Saved resnet_ftrojan_poisoned_batch_277.pt
+Saved resnet_ftrojan_poisoned_batch_278.pt
+Saved resnet_ftrojan_poisoned_batch_279.pt
+Saved resnet_ftrojan_poisoned_batch_280.pt
+Saved resnet_ftrojan_poisoned_batch_281.pt
+Saved resnet_ftrojan_poisoned_batch_282.pt
+Saved resnet_ftrojan_poisoned_batch_283.pt
+Saved resnet_ftrojan_poisoned_batch_284.pt
+Saved resnet_ftrojan_poisoned_batch_285.pt
+Saved resnet_ftrojan_poisoned_batch_286.pt
+Saved resnet_ftrojan_poisoned_batch_287.pt
+Saved resnet_ftrojan_poisoned_batch_288.pt
+Saved resnet_ftrojan_poisoned_batch_289.pt
+Saved resnet_ftrojan_poisoned_batch_290.pt
+Saved resnet_ftrojan_poisoned_batch_291.pt
+Saved resnet_ftrojan_poisoned_batch_292.pt
+Saved resnet_ftrojan_poisoned_batch_293.pt
+Saved resnet_ftrojan_poisoned_batch_294.pt
+Saved resnet_ftrojan_poisoned_batch_295.pt
+Saved resnet_ftrojan_poisoned_batch_296.pt
+Saved resnet_ftrojan_poisoned_batch_297.pt
+Saved resnet_ftrojan_poisoned_batch_298.pt
+Saved resnet_ftrojan_poisoned_batch_299.pt
+Saved resnet_ftrojan_poisoned_batch_300.pt
+Saved resnet_ftrojan_poisoned_batch_301.pt
+Saved resnet_ftrojan_poisoned_batch_302.pt
+Saved resnet_ftrojan_poisoned_batch_303.pt
+Saved resnet_ftrojan_poisoned_batch_304.pt
+Saved resnet_ftrojan_poisoned_batch_305.pt
+Saved resnet_ftrojan_poisoned_batch_306.pt
+Saved resnet_ftrojan_poisoned_batch_307.pt
+Saved resnet_ftrojan_poisoned_batch_308.pt
+Saved resnet_ftrojan_poisoned_batch_309.pt
+Saved resnet_ftrojan_poisoned_batch_310.pt
+Saved resnet_ftrojan_poisoned_batch_311.pt
+Saved resnet_ftrojan_poisoned_batch_312.pt
+Saved resnet_ftrojan_poisoned_batch_313.pt
+Saved resnet_ftrojan_poisoned_batch_314.pt
+Saved resnet_ftrojan_poisoned_batch_315.pt
+Saved resnet_ftrojan_poisoned_batch_316.pt
+Saved resnet_ftrojan_poisoned_batch_317.pt
+1, loading batches from test_loader
+2, loading batches from test_loader
+Saved resnet_ftrojan_TEST_batch_0.pt
+Saved resnet_ftrojan_TEST_batch_1.pt
+Saved resnet_ftrojan_TEST_batch_2.pt
+Saved resnet_ftrojan_TEST_batch_3.pt
+Saved resnet_ftrojan_TEST_batch_4.pt
+Saved resnet_ftrojan_TEST_batch_5.pt
+Saved resnet_ftrojan_TEST_batch_6.pt
+Saved resnet_ftrojan_TEST_batch_7.pt
+Saved resnet_ftrojan_TEST_batch_8.pt
+Saved resnet_ftrojan_TEST_batch_9.pt
+Saved resnet_ftrojan_TEST_batch_10.pt
+Saved resnet_ftrojan_TEST_batch_11.pt
+Saved resnet_ftrojan_TEST_batch_12.pt
+Saved resnet_ftrojan_TEST_batch_13.pt
+Saved resnet_ftrojan_TEST_batch_14.pt
+Saved resnet_ftrojan_TEST_batch_15.pt
+Saved resnet_ftrojan_TEST_batch_16.pt
+Saved resnet_ftrojan_TEST_batch_17.pt
+Saved resnet_ftrojan_TEST_batch_18.pt
+Saved resnet_ftrojan_TEST_batch_19.pt
+Saved resnet_ftrojan_TEST_batch_20.pt
+Saved resnet_ftrojan_TEST_batch_21.pt
+Saved resnet_ftrojan_TEST_batch_22.pt
+Saved resnet_ftrojan_TEST_batch_23.pt
+Saved resnet_ftrojan_TEST_batch_24.pt
+Saved resnet_ftrojan_TEST_batch_25.pt
+Saved resnet_ftrojan_TEST_batch_26.pt
+Saved resnet_ftrojan_TEST_batch_27.pt
+Saved resnet_ftrojan_TEST_batch_28.pt
+Saved resnet_ftrojan_TEST_batch_29.pt
+Saved resnet_ftrojan_TEST_batch_30.pt
+Saved resnet_ftrojan_TEST_batch_31.pt
+Saved resnet_ftrojan_TEST_batch_32.pt
+Saved resnet_ftrojan_TEST_batch_33.pt
+Saved resnet_ftrojan_TEST_batch_34.pt
+Saved resnet_ftrojan_TEST_batch_35.pt
+Saved resnet_ftrojan_TEST_batch_36.pt
+Saved resnet_ftrojan_TEST_batch_37.pt
+Saved resnet_ftrojan_TEST_batch_38.pt
+0/100, Avg Train Loss:1.228624, Avg Train Acc:0.5553, 
+        Avg Test Loss Clean:0.951644, Avg Test Acc Clean:0.6401, 
+  cannot      Avg Test Loss backdoor:0.003853, Avg Test Acc backdoor:0.9994, Best Acc:[91m0.0000 [0m,
+        Best Backdoor Acc:[91m0.0000 [0m
+Elapsed Time: 3m 9s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+1/100, Avg Train Loss:0.577733, Avg Train Acc:0.7784, 
+        Avg Test Loss Clean:0.747786, Avg Test Acc Clean:0.7202, 
+  cannot      Avg Test Loss backdoor:0.005887, Avg Test Acc backdoor:0.9984, Best Acc:[91m0.6401 [0m,
+        Best Backdoor Acc:[91m0.9994 [0m
+Elapsed Time: 6m 19s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+2/100, Avg Train Loss:0.509383, Avg Train Acc:0.8026, 
+        Avg Test Loss Clean:0.691712, Avg Test Acc Clean:0.7374, 
+  cannot      Avg Test Loss backdoor:0.005068, Avg Test Acc backdoor:0.9989, Best Acc:[91m0.7202 [0m,
+        Best Backdoor Acc:[91m0.9994 [0m
+Elapsed Time: 9m 17s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+3/100, Avg Train Loss:0.473316, Avg Train Acc:0.8162, 
+        Avg Test Loss Clean:0.735640, Avg Test Acc Clean:0.7288, 
+  cannot      Avg Test Loss backdoor:0.001111, Avg Test Acc backdoor:0.9996, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m0.9994 [0m
+Elapsed Time: 12m 13s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+4/100, Avg Train Loss:0.440684, Avg Train Acc:0.8290, 
+        Avg Test Loss Clean:0.915259, Avg Test Acc Clean:0.6891, 
+  cannot      Avg Test Loss backdoor:0.000458, Avg Test Acc backdoor:0.9998, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m0.9996 [0m
+Elapsed Time: 15m 9s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+5/100, Avg Train Loss:0.407856, Avg Train Acc:0.8437, 
+        Avg Test Loss Clean:0.845078, Avg Test Acc Clean:0.7083, 
+  cannot      Avg Test Loss backdoor:0.000028, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m0.9998 [0m
+Elapsed Time: 18m 6s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+6/100, Avg Train Loss:0.374725, Avg Train Acc:0.8572, 
+        Avg Test Loss Clean:0.886107, Avg Test Acc Clean:0.6975, 
+  cannot      Avg Test Loss backdoor:0.002077, Avg Test Acc backdoor:0.9993, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 21m 4s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+7/100, Avg Train Loss:0.355257, Avg Train Acc:0.8635, 
+        Avg Test Loss Clean:1.331757, Avg Test Acc Clean:0.6310, 
+  cannot      Avg Test Loss backdoor:0.000220, Avg Test Acc backdoor:0.9999, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 24m 3s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+8/100, Avg Train Loss:0.337904, Avg Train Acc:0.8684, 
+        Avg Test Loss Clean:0.914156, Avg Test Acc Clean:0.7227, 
+  cannot      Avg Test Loss backdoor:0.000000, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 27m 1s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+9/100, Avg Train Loss:0.305409, Avg Train Acc:0.8818, 
+        Avg Test Loss Clean:1.616476, Avg Test Acc Clean:0.6210, 
+  cannot      Avg Test Loss backdoor:0.085412, Avg Test Acc backdoor:0.9764, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 29m 56s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+10/100, Avg Train Loss:0.208126, Avg Train Acc:0.9213, 
+        Avg Test Loss Clean:1.186602, Avg Test Acc Clean:0.7113, 
+  cannot      Avg Test Loss backdoor:0.001105, Avg Test Acc backdoor:0.9995, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 32m 52s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+11/100, Avg Train Loss:0.114116, Avg Train Acc:0.9594, 
+        Avg Test Loss Clean:1.530503, Avg Test Acc Clean:0.6769, 
+  cannot      Avg Test Loss backdoor:0.007951, Avg Test Acc backdoor:0.9971, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 35m 49s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+12/100, Avg Train Loss:0.103414, Avg Train Acc:0.9628, 
+        Avg Test Loss Clean:1.970420, Avg Test Acc Clean:0.6521, 
+  cannot      Avg Test Loss backdoor:0.000432, Avg Test Acc backdoor:0.9998, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 38m 47s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+13/100, Avg Train Loss:0.090413, Avg Train Acc:0.9668, 
+        Avg Test Loss Clean:1.400226, Avg Test Acc Clean:0.7044, 
+  cannot      Avg Test Loss backdoor:0.000138, Avg Test Acc backdoor:0.9999, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 41m 45s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+14/100, Avg Train Loss:0.069588, Avg Train Acc:0.9753, 
+        Avg Test Loss Clean:1.367509, Avg Test Acc Clean:0.7153, 
+  cannot      Avg Test Loss backdoor:0.002452, Avg Test Acc backdoor:0.9994, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 44m 43s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+15/100, Avg Train Loss:0.051099, Avg Train Acc:0.9822, 
+        Avg Test Loss Clean:1.500209, Avg Test Acc Clean:0.7024, 
+  cannot      Avg Test Loss backdoor:0.000312, Avg Test Acc backdoor:0.9999, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 47m 41s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+16/100, Avg Train Loss:0.038845, Avg Train Acc:0.9869, 
+        Avg Test Loss Clean:2.153910, Avg Test Acc Clean:0.6497, 
+  cannot      Avg Test Loss backdoor:0.000339, Avg Test Acc backdoor:0.9999, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 50m 40s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+17/100, Avg Train Loss:0.029056, Avg Train Acc:0.9906, 
+        Avg Test Loss Clean:2.087807, Avg Test Acc Clean:0.6537, 
+  cannot      Avg Test Loss backdoor:0.007212, Avg Test Acc backdoor:0.9977, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 53m 38s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+18/100, Avg Train Loss:0.019576, Avg Train Acc:0.9941, 
+        Avg Test Loss Clean:1.848962, Avg Test Acc Clean:0.6848, 
+  cannot      Avg Test Loss backdoor:0.002163, Avg Test Acc backdoor:0.9994, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 56m 37s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+19/100, Avg Train Loss:0.012671, Avg Train Acc:0.9966, 
+        Avg Test Loss Clean:1.668911, Avg Test Acc Clean:0.7155, 
+  cannot      Avg Test Loss backdoor:0.000222, Avg Test Acc backdoor:0.9999, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 59m 35s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+20/100, Avg Train Loss:0.005756, Avg Train Acc:0.9989, 
+        Avg Test Loss Clean:1.451783, Avg Test Acc Clean:0.7500, 
+  cannot      Avg Test Loss backdoor:0.000208, Avg Test Acc backdoor:0.9999, Best Acc:[91m0.7374 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 62m 33s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+21/100, Avg Train Loss:0.001560, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.464224, Avg Test Acc Clean:0.7553, 
+  cannot      Avg Test Loss backdoor:0.000108, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7500 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 65m 31s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+22/100, Avg Train Loss:0.000812, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.472693, Avg Test Acc Clean:0.7558, 
+  cannot      Avg Test Loss backdoor:0.000084, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7553 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 68m 29s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+23/100, Avg Train Loss:0.000661, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.476940, Avg Test Acc Clean:0.7556, 
+  cannot      Avg Test Loss backdoor:0.000073, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 71m 28s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+24/100, Avg Train Loss:0.000582, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.478997, Avg Test Acc Clean:0.7557, 
+  cannot      Avg Test Loss backdoor:0.000068, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 74m 26s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+25/100, Avg Train Loss:0.000530, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.480036, Avg Test Acc Clean:0.7554, 
+  cannot      Avg Test Loss backdoor:0.000063, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 77m 24s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+26/100, Avg Train Loss:0.000492, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.480235, Avg Test Acc Clean:0.7554, 
+  cannot      Avg Test Loss backdoor:0.000058, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 80m 22s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+27/100, Avg Train Loss:0.000463, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.479538, Avg Test Acc Clean:0.7553, 
+  cannot      Avg Test Loss backdoor:0.000056, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 83m 20s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+28/100, Avg Train Loss:0.000440, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.478291, Avg Test Acc Clean:0.7556, 
+  cannot      Avg Test Loss backdoor:0.000053, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 86m 18s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+29/100, Avg Train Loss:0.000422, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.476765, Avg Test Acc Clean:0.7556, 
+  cannot      Avg Test Loss backdoor:0.000051, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 89m 16s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+30/100, Avg Train Loss:0.000403, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.477658, Avg Test Acc Clean:0.7560, 
+  cannot      Avg Test Loss backdoor:0.000046, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7558 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 92m 13s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+31/100, Avg Train Loss:0.000396, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.476612, Avg Test Acc Clean:0.7563, 
+  cannot      Avg Test Loss backdoor:0.000045, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7560 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 95m 11s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+32/100, Avg Train Loss:0.000390, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.475567, Avg Test Acc Clean:0.7559, 
+  cannot      Avg Test Loss backdoor:0.000045, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 98m 8s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+33/100, Avg Train Loss:0.000385, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.474277, Avg Test Acc Clean:0.7561, 
+  cannot      Avg Test Loss backdoor:0.000044, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 101m 6s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+34/100, Avg Train Loss:0.000380, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.473117, Avg Test Acc Clean:0.7559, 
+  cannot      Avg Test Loss backdoor:0.000043, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 104m 4s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+35/100, Avg Train Loss:0.000376, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.471824, Avg Test Acc Clean:0.7558, 
+  cannot      Avg Test Loss backdoor:0.000042, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 107m 2s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+36/100, Avg Train Loss:0.000372, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.470414, Avg Test Acc Clean:0.7559, 
+  cannot      Avg Test Loss backdoor:0.000042, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 109m 60s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+37/100, Avg Train Loss:0.000368, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.469033, Avg Test Acc Clean:0.7558, 
+  cannot      Avg Test Loss backdoor:0.000042, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 112m 56s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+38/100, Avg Train Loss:0.000365, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.467647, Avg Test Acc Clean:0.7558, 
+  cannot      Avg Test Loss backdoor:0.000041, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 115m 52s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+39/100, Avg Train Loss:0.000361, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.466235, Avg Test Acc Clean:0.7557, 
+  cannot      Avg Test Loss backdoor:0.000041, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 118m 49s
+Current learning rate:0.001250
+1, loading batches from test_loader
+2, loading batches from test_loader
+40/100, Avg Train Loss:0.000356, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.466311, Avg Test Acc Clean:0.7563, 
+  cannot      Avg Test Loss backdoor:0.000039, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 121m 46s
+Current learning rate:0.000625
+1, loading batches from test_loader
+2, loading batches from test_loader
+41/100, Avg Train Loss:0.000355, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.465585, Avg Test Acc Clean:0.7562, 
+  cannot      Avg Test Loss backdoor:0.000039, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 124m 43s
+Current learning rate:0.000625
+1, loading batches from test_loader
+2, loading batches from test_loader
+42/100, Avg Train Loss:0.000354, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.464826, Avg Test Acc Clean:0.7563, 
+  cannot      Avg Test Loss backdoor:0.000039, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 127m 40s
+Current learning rate:0.000625
+1, loading batches from test_loader
+2, loading batches from test_loader
+43/100, Avg Train Loss:0.000352, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.464052, Avg Test Acc Clean:0.7562, 
+  cannot      Avg Test Loss backdoor:0.000039, Avg Test Acc backdoor:1.0000, Best Acc:[91m0.7563 [0m,
+        Best Backdoor Acc:[91m1.0000 [0m
+Elapsed Time: 130m 37s
+Current learning rate:0.000625
+1, loading batches from test_loader
+2, loading batches from test_loader

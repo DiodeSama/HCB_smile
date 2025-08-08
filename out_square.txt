@@ -1,0 +1,601 @@
+using fraction:  1
+Full train dataset size: 162770
+Full test dataset size: 19962
+finish loading dataset
+Saved poisoned_batch_0.pt
+Saved poisoned_batch_1.pt
+Saved poisoned_batch_2.pt
+Saved poisoned_batch_3.pt
+Saved poisoned_batch_4.pt
+Saved poisoned_batch_5.pt
+Saved poisoned_batch_6.pt
+Saved poisoned_batch_7.pt
+Saved poisoned_batch_8.pt
+Saved poisoned_batch_9.pt
+Saved poisoned_batch_10.pt
+Saved poisoned_batch_11.pt
+Saved poisoned_batch_12.pt
+Saved poisoned_batch_13.pt
+Saved poisoned_batch_14.pt
+Saved poisoned_batch_15.pt
+Saved poisoned_batch_16.pt
+Saved poisoned_batch_17.pt
+Saved poisoned_batch_18.pt
+Saved poisoned_batch_19.pt
+Saved poisoned_batch_20.pt
+Saved poisoned_batch_21.pt
+Saved poisoned_batch_22.pt
+Saved poisoned_batch_23.pt
+Saved poisoned_batch_24.pt
+Saved poisoned_batch_25.pt
+Saved poisoned_batch_26.pt
+Saved poisoned_batch_27.pt
+Saved poisoned_batch_28.pt
+Saved poisoned_batch_29.pt
+Saved poisoned_batch_30.pt
+Saved poisoned_batch_31.pt
+Saved poisoned_batch_32.pt
+Saved poisoned_batch_33.pt
+Saved poisoned_batch_34.pt
+Saved poisoned_batch_35.pt
+Saved poisoned_batch_36.pt
+Saved poisoned_batch_37.pt
+Saved poisoned_batch_38.pt
+Saved poisoned_batch_39.pt
+Saved poisoned_batch_40.pt
+Saved poisoned_batch_41.pt
+Saved poisoned_batch_42.pt
+Saved poisoned_batch_43.pt
+Saved poisoned_batch_44.pt
+Saved poisoned_batch_45.pt
+Saved poisoned_batch_46.pt
+Saved poisoned_batch_47.pt
+Saved poisoned_batch_48.pt
+Saved poisoned_batch_49.pt
+Saved poisoned_batch_50.pt
+Saved poisoned_batch_51.pt
+Saved poisoned_batch_52.pt
+Saved poisoned_batch_53.pt
+Saved poisoned_batch_54.pt
+Saved poisoned_batch_55.pt
+Saved poisoned_batch_56.pt
+Saved poisoned_batch_57.pt
+Saved poisoned_batch_58.pt
+Saved poisoned_batch_59.pt
+Saved poisoned_batch_60.pt
+Saved poisoned_batch_61.pt
+Saved poisoned_batch_62.pt
+Saved poisoned_batch_63.pt
+Saved poisoned_batch_64.pt
+Saved poisoned_batch_65.pt
+Saved poisoned_batch_66.pt
+Saved poisoned_batch_67.pt
+Saved poisoned_batch_68.pt
+Saved poisoned_batch_69.pt
+Saved poisoned_batch_70.pt
+Saved poisoned_batch_71.pt
+Saved poisoned_batch_72.pt
+Saved poisoned_batch_73.pt
+Saved poisoned_batch_74.pt
+Saved poisoned_batch_75.pt
+Saved poisoned_batch_76.pt
+Saved poisoned_batch_77.pt
+Saved poisoned_batch_78.pt
+Saved poisoned_batch_79.pt
+Saved poisoned_batch_80.pt
+Saved poisoned_batch_81.pt
+Saved poisoned_batch_82.pt
+Saved poisoned_batch_83.pt
+Saved poisoned_batch_84.pt
+Saved poisoned_batch_85.pt
+Saved poisoned_batch_86.pt
+Saved poisoned_batch_87.pt
+Saved poisoned_batch_88.pt
+Saved poisoned_batch_89.pt
+Saved poisoned_batch_90.pt
+Saved poisoned_batch_91.pt
+Saved poisoned_batch_92.pt
+Saved poisoned_batch_93.pt
+Saved poisoned_batch_94.pt
+Saved poisoned_batch_95.pt
+Saved poisoned_batch_96.pt
+Saved poisoned_batch_97.pt
+Saved poisoned_batch_98.pt
+Saved poisoned_batch_99.pt
+Saved poisoned_batch_100.pt
+Saved poisoned_batch_101.pt
+Saved poisoned_batch_102.pt
+Saved poisoned_batch_103.pt
+Saved poisoned_batch_104.pt
+Saved poisoned_batch_105.pt
+Saved poisoned_batch_106.pt
+Saved poisoned_batch_107.pt
+Saved poisoned_batch_108.pt
+Saved poisoned_batch_109.pt
+Saved poisoned_batch_110.pt
+Saved poisoned_batch_111.pt
+Saved poisoned_batch_112.pt
+Saved poisoned_batch_113.pt
+Saved poisoned_batch_114.pt
+Saved poisoned_batch_115.pt
+Saved poisoned_batch_116.pt
+Saved poisoned_batch_117.pt
+Saved poisoned_batch_118.pt
+Saved poisoned_batch_119.pt
+Saved poisoned_batch_120.pt
+Saved poisoned_batch_121.pt
+Saved poisoned_batch_122.pt
+Saved poisoned_batch_123.pt
+Saved poisoned_batch_124.pt
+Saved poisoned_batch_125.pt
+Saved poisoned_batch_126.pt
+Saved poisoned_batch_127.pt
+Saved poisoned_batch_128.pt
+Saved poisoned_batch_129.pt
+Saved poisoned_batch_130.pt
+Saved poisoned_batch_131.pt
+Saved poisoned_batch_132.pt
+Saved poisoned_batch_133.pt
+Saved poisoned_batch_134.pt
+Saved poisoned_batch_135.pt
+Saved poisoned_batch_136.pt
+Saved poisoned_batch_137.pt
+Saved poisoned_batch_138.pt
+Saved poisoned_batch_139.pt
+Saved poisoned_batch_140.pt
+Saved poisoned_batch_141.pt
+Saved poisoned_batch_142.pt
+Saved poisoned_batch_143.pt
+Saved poisoned_batch_144.pt
+Saved poisoned_batch_145.pt
+Saved poisoned_batch_146.pt
+Saved poisoned_batch_147.pt
+Saved poisoned_batch_148.pt
+Saved poisoned_batch_149.pt
+Saved poisoned_batch_150.pt
+Saved poisoned_batch_151.pt
+Saved poisoned_batch_152.pt
+Saved poisoned_batch_153.pt
+Saved poisoned_batch_154.pt
+Saved poisoned_batch_155.pt
+Saved poisoned_batch_156.pt
+Saved poisoned_batch_157.pt
+Saved poisoned_batch_158.pt
+Saved poisoned_batch_159.pt
+Saved poisoned_batch_160.pt
+Saved poisoned_batch_161.pt
+Saved poisoned_batch_162.pt
+Saved poisoned_batch_163.pt
+Saved poisoned_batch_164.pt
+Saved poisoned_batch_165.pt
+Saved poisoned_batch_166.pt
+Saved poisoned_batch_167.pt
+Saved poisoned_batch_168.pt
+Saved poisoned_batch_169.pt
+Saved poisoned_batch_170.pt
+Saved poisoned_batch_171.pt
+Saved poisoned_batch_172.pt
+Saved poisoned_batch_173.pt
+Saved poisoned_batch_174.pt
+Saved poisoned_batch_175.pt
+Saved poisoned_batch_176.pt
+Saved poisoned_batch_177.pt
+Saved poisoned_batch_178.pt
+Saved poisoned_batch_179.pt
+Saved poisoned_batch_180.pt
+Saved poisoned_batch_181.pt
+Saved poisoned_batch_182.pt
+Saved poisoned_batch_183.pt
+Saved poisoned_batch_184.pt
+Saved poisoned_batch_185.pt
+Saved poisoned_batch_186.pt
+Saved poisoned_batch_187.pt
+Saved poisoned_batch_188.pt
+Saved poisoned_batch_189.pt
+Saved poisoned_batch_190.pt
+Saved poisoned_batch_191.pt
+Saved poisoned_batch_192.pt
+Saved poisoned_batch_193.pt
+Saved poisoned_batch_194.pt
+Saved poisoned_batch_195.pt
+Saved poisoned_batch_196.pt
+Saved poisoned_batch_197.pt
+Saved poisoned_batch_198.pt
+Saved poisoned_batch_199.pt
+Saved poisoned_batch_200.pt
+Saved poisoned_batch_201.pt
+Saved poisoned_batch_202.pt
+Saved poisoned_batch_203.pt
+Saved poisoned_batch_204.pt
+Saved poisoned_batch_205.pt
+Saved poisoned_batch_206.pt
+Saved poisoned_batch_207.pt
+Saved poisoned_batch_208.pt
+Saved poisoned_batch_209.pt
+Saved poisoned_batch_210.pt
+Saved poisoned_batch_211.pt
+Saved poisoned_batch_212.pt
+Saved poisoned_batch_213.pt
+Saved poisoned_batch_214.pt
+Saved poisoned_batch_215.pt
+Saved poisoned_batch_216.pt
+Saved poisoned_batch_217.pt
+Saved poisoned_batch_218.pt
+Saved poisoned_batch_219.pt
+Saved poisoned_batch_220.pt
+Saved poisoned_batch_221.pt
+Saved poisoned_batch_222.pt
+Saved poisoned_batch_223.pt
+Saved poisoned_batch_224.pt
+Saved poisoned_batch_225.pt
+Saved poisoned_batch_226.pt
+Saved poisoned_batch_227.pt
+Saved poisoned_batch_228.pt
+Saved poisoned_batch_229.pt
+Saved poisoned_batch_230.pt
+Saved poisoned_batch_231.pt
+Saved poisoned_batch_232.pt
+Saved poisoned_batch_233.pt
+Saved poisoned_batch_234.pt
+Saved poisoned_batch_235.pt
+Saved poisoned_batch_236.pt
+Saved poisoned_batch_237.pt
+Saved poisoned_batch_238.pt
+Saved poisoned_batch_239.pt
+Saved poisoned_batch_240.pt
+Saved poisoned_batch_241.pt
+Saved poisoned_batch_242.pt
+Saved poisoned_batch_243.pt
+Saved poisoned_batch_244.pt
+Saved poisoned_batch_245.pt
+Saved poisoned_batch_246.pt
+Saved poisoned_batch_247.pt
+Saved poisoned_batch_248.pt
+Saved poisoned_batch_249.pt
+Saved poisoned_batch_250.pt
+Saved poisoned_batch_251.pt
+Saved poisoned_batch_252.pt
+Saved poisoned_batch_253.pt
+Saved poisoned_batch_254.pt
+Saved poisoned_batch_255.pt
+Saved poisoned_batch_256.pt
+Saved poisoned_batch_257.pt
+Saved poisoned_batch_258.pt
+Saved poisoned_batch_259.pt
+Saved poisoned_batch_260.pt
+Saved poisoned_batch_261.pt
+Saved poisoned_batch_262.pt
+Saved poisoned_batch_263.pt
+Saved poisoned_batch_264.pt
+Saved poisoned_batch_265.pt
+Saved poisoned_batch_266.pt
+Saved poisoned_batch_267.pt
+Saved poisoned_batch_268.pt
+Saved poisoned_batch_269.pt
+Saved poisoned_batch_270.pt
+Saved poisoned_batch_271.pt
+Saved poisoned_batch_272.pt
+Saved poisoned_batch_273.pt
+Saved poisoned_batch_274.pt
+Saved poisoned_batch_275.pt
+Saved poisoned_batch_276.pt
+Saved poisoned_batch_277.pt
+Saved poisoned_batch_278.pt
+Saved poisoned_batch_279.pt
+Saved poisoned_batch_280.pt
+Saved poisoned_batch_281.pt
+Saved poisoned_batch_282.pt
+Saved poisoned_batch_283.pt
+Saved poisoned_batch_284.pt
+Saved poisoned_batch_285.pt
+Saved poisoned_batch_286.pt
+Saved poisoned_batch_287.pt
+Saved poisoned_batch_288.pt
+Saved poisoned_batch_289.pt
+Saved poisoned_batch_290.pt
+Saved poisoned_batch_291.pt
+Saved poisoned_batch_292.pt
+Saved poisoned_batch_293.pt
+Saved poisoned_batch_294.pt
+Saved poisoned_batch_295.pt
+Saved poisoned_batch_296.pt
+Saved poisoned_batch_297.pt
+Saved poisoned_batch_298.pt
+Saved poisoned_batch_299.pt
+Saved poisoned_batch_300.pt
+Saved poisoned_batch_301.pt
+Saved poisoned_batch_302.pt
+Saved poisoned_batch_303.pt
+Saved poisoned_batch_304.pt
+Saved poisoned_batch_305.pt
+Saved poisoned_batch_306.pt
+Saved poisoned_batch_307.pt
+Saved poisoned_batch_308.pt
+Saved poisoned_batch_309.pt
+Saved poisoned_batch_310.pt
+Saved poisoned_batch_311.pt
+Saved poisoned_batch_312.pt
+Saved poisoned_batch_313.pt
+Saved poisoned_batch_314.pt
+Saved poisoned_batch_315.pt
+Saved poisoned_batch_316.pt
+Saved poisoned_batch_317.pt
+1, loading batches from test_loader
+2, loading batches from test_loader
+Saved TEST_batch_0.pt
+Saved TEST_batch_1.pt
+Saved TEST_batch_2.pt
+Saved TEST_batch_3.pt
+Saved TEST_batch_4.pt
+Saved TEST_batch_5.pt
+Saved TEST_batch_6.pt
+Saved TEST_batch_7.pt
+Saved TEST_batch_8.pt
+Saved TEST_batch_9.pt
+Saved TEST_batch_10.pt
+Saved TEST_batch_11.pt
+Saved TEST_batch_12.pt
+Saved TEST_batch_13.pt
+Saved TEST_batch_14.pt
+Saved TEST_batch_15.pt
+Saved TEST_batch_16.pt
+Saved TEST_batch_17.pt
+Saved TEST_batch_18.pt
+Saved TEST_batch_19.pt
+Saved TEST_batch_20.pt
+Saved TEST_batch_21.pt
+Saved TEST_batch_22.pt
+Saved TEST_batch_23.pt
+Saved TEST_batch_24.pt
+Saved TEST_batch_25.pt
+Saved TEST_batch_26.pt
+Saved TEST_batch_27.pt
+Saved TEST_batch_28.pt
+Saved TEST_batch_29.pt
+Saved TEST_batch_30.pt
+Saved TEST_batch_31.pt
+Saved TEST_batch_32.pt
+Saved TEST_batch_33.pt
+Saved TEST_batch_34.pt
+Saved TEST_batch_35.pt
+Saved TEST_batch_36.pt
+Saved TEST_batch_37.pt
+Saved TEST_batch_38.pt
+0/30, Avg Train Loss:1.276554, Avg Train Acc:0.5412, 
+        Avg Test Loss Clean:1.107451, Avg Test Acc Clean:0.5918, 
+  cannot      Avg Test Loss backdoor:0.244105, Avg Test Acc backdoor:0.9398, Best Acc:[91m0.0000 [0m,
+        Best Backdoor Acc:[91m0.0000 [0m
+Elapsed Time: 2m 48s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+1/30, Avg Train Loss:0.574932, Avg Train Acc:0.7799, 
+        Avg Test Loss Clean:1.142004, Avg Test Acc Clean:0.5720, 
+  cannot      Avg Test Loss backdoor:0.050965, Avg Test Acc backdoor:0.9842, Best Acc:[91m0.5918 [0m,
+        Best Backdoor Acc:[91m0.9398 [0m
+Elapsed Time: 5m 47s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+2/30, Avg Train Loss:0.510534, Avg Train Acc:0.8029, 
+        Avg Test Loss Clean:0.789431, Avg Test Acc Clean:0.6905, 
+  cannot      Avg Test Loss backdoor:0.070155, Avg Test Acc backdoor:0.9808, Best Acc:[91m0.5918 [0m,
+        Best Backdoor Acc:[91m0.9842 [0m
+Elapsed Time: 8m 44s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+3/30, Avg Train Loss:0.474717, Avg Train Acc:0.8165, 
+        Avg Test Loss Clean:0.710821, Avg Test Acc Clean:0.7189, 
+  cannot      Avg Test Loss backdoor:0.042681, Avg Test Acc backdoor:0.9872, Best Acc:[91m0.6905 [0m,
+        Best Backdoor Acc:[91m0.9842 [0m
+Elapsed Time: 11m 40s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+4/30, Avg Train Loss:0.438033, Avg Train Acc:0.8314, 
+        Avg Test Loss Clean:0.714577, Avg Test Acc Clean:0.7229, 
+  cannot      Avg Test Loss backdoor:0.076167, Avg Test Acc backdoor:0.9810, Best Acc:[91m0.7189 [0m,
+        Best Backdoor Acc:[91m0.9872 [0m
+Elapsed Time: 14m 37s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+5/30, Avg Train Loss:0.401606, Avg Train Acc:0.8455, 
+        Avg Test Loss Clean:0.870240, Avg Test Acc Clean:0.6905, 
+  cannot      Avg Test Loss backdoor:0.100687, Avg Test Acc backdoor:0.9800, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9872 [0m
+Elapsed Time: 17m 34s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+6/30, Avg Train Loss:0.374702, Avg Train Acc:0.8562, 
+        Avg Test Loss Clean:1.063129, Avg Test Acc Clean:0.6440, 
+  cannot      Avg Test Loss backdoor:0.031797, Avg Test Acc backdoor:0.9914, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9872 [0m
+Elapsed Time: 20m 31s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+7/30, Avg Train Loss:0.358665, Avg Train Acc:0.8616, 
+        Avg Test Loss Clean:0.966167, Avg Test Acc Clean:0.6671, 
+  cannot      Avg Test Loss backdoor:0.034514, Avg Test Acc backdoor:0.9913, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9914 [0m
+Elapsed Time: 23m 28s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+8/30, Avg Train Loss:0.341121, Avg Train Acc:0.8682, 
+        Avg Test Loss Clean:0.937883, Avg Test Acc Clean:0.6925, 
+  cannot      Avg Test Loss backdoor:0.038667, Avg Test Acc backdoor:0.9899, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9914 [0m
+Elapsed Time: 26m 23s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+9/30, Avg Train Loss:0.302309, Avg Train Acc:0.8837, 
+        Avg Test Loss Clean:1.120244, Avg Test Acc Clean:0.6575, 
+  cannot      Avg Test Loss backdoor:0.027303, Avg Test Acc backdoor:0.9928, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9914 [0m
+Elapsed Time: 29m 19s
+Current learning rate:0.010000
+1, loading batches from test_loader
+2, loading batches from test_loader
+10/30, Avg Train Loss:0.194104, Avg Train Acc:0.9271, 
+        Avg Test Loss Clean:1.217264, Avg Test Acc Clean:0.6868, 
+  cannot      Avg Test Loss backdoor:0.039270, Avg Test Acc backdoor:0.9918, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 32m 14s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+11/30, Avg Train Loss:0.087954, Avg Train Acc:0.9713, 
+        Avg Test Loss Clean:1.463722, Avg Test Acc Clean:0.7018, 
+  cannot      Avg Test Loss backdoor:0.043645, Avg Test Acc backdoor:0.9922, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 35m 10s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+12/30, Avg Train Loss:0.058067, Avg Train Acc:0.9810, 
+        Avg Test Loss Clean:1.642572, Avg Test Acc Clean:0.7012, 
+  cannot      Avg Test Loss backdoor:0.119375, Avg Test Acc backdoor:0.9850, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 38m 5s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+13/30, Avg Train Loss:0.049016, Avg Train Acc:0.9836, 
+        Avg Test Loss Clean:1.480748, Avg Test Acc Clean:0.7123, 
+  cannot      Avg Test Loss backdoor:0.088429, Avg Test Acc backdoor:0.9871, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 41m 2s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+14/30, Avg Train Loss:0.041296, Avg Train Acc:0.9861, 
+        Avg Test Loss Clean:1.921347, Avg Test Acc Clean:0.6960, 
+  cannot      Avg Test Loss backdoor:0.120824, Avg Test Acc backdoor:0.9843, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 43m 60s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+15/30, Avg Train Loss:0.034220, Avg Train Acc:0.9887, 
+        Avg Test Loss Clean:1.573518, Avg Test Acc Clean:0.7024, 
+  cannot      Avg Test Loss backdoor:0.063442, Avg Test Acc backdoor:0.9886, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 46m 56s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+16/30, Avg Train Loss:0.028193, Avg Train Acc:0.9910, 
+        Avg Test Loss Clean:1.616058, Avg Test Acc Clean:0.7115, 
+  cannot      Avg Test Loss backdoor:0.144177, Avg Test Acc backdoor:0.9818, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 49m 53s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+17/30, Avg Train Loss:0.021646, Avg Train Acc:0.9935, 
+        Avg Test Loss Clean:1.488516, Avg Test Acc Clean:0.7351, 
+  cannot      Avg Test Loss backdoor:0.110888, Avg Test Acc backdoor:0.9840, Best Acc:[91m0.7229 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 52m 49s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+18/30, Avg Train Loss:0.014304, Avg Train Acc:0.9960, 
+        Avg Test Loss Clean:1.500818, Avg Test Acc Clean:0.7426, 
+  cannot      Avg Test Loss backdoor:0.088916, Avg Test Acc backdoor:0.9869, Best Acc:[91m0.7351 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 55m 46s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+19/30, Avg Train Loss:0.008764, Avg Train Acc:0.9978, 
+        Avg Test Loss Clean:1.524632, Avg Test Acc Clean:0.7463, 
+  cannot      Avg Test Loss backdoor:0.115083, Avg Test Acc backdoor:0.9850, Best Acc:[91m0.7426 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 58m 43s
+Current learning rate:0.005000
+1, loading batches from test_loader
+2, loading batches from test_loader
+20/30, Avg Train Loss:0.003901, Avg Train Acc:0.9994, 
+        Avg Test Loss Clean:1.519869, Avg Test Acc Clean:0.7444, 
+  cannot      Avg Test Loss backdoor:0.090845, Avg Test Acc backdoor:0.9883, Best Acc:[91m0.7463 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 61m 41s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+21/30, Avg Train Loss:0.001087, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.500426, Avg Test Acc Clean:0.7526, 
+  cannot      Avg Test Loss backdoor:0.089619, Avg Test Acc backdoor:0.9882, Best Acc:[91m0.7463 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 64m 38s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+22/30, Avg Train Loss:0.000681, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.506681, Avg Test Acc Clean:0.7532, 
+  cannot      Avg Test Loss backdoor:0.089877, Avg Test Acc backdoor:0.9881, Best Acc:[91m0.7526 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 67m 35s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+23/30, Avg Train Loss:0.000576, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.509653, Avg Test Acc Clean:0.7526, 
+  cannot      Avg Test Loss backdoor:0.089947, Avg Test Acc backdoor:0.9881, Best Acc:[91m0.7532 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 70m 32s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+24/30, Avg Train Loss:0.000515, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.510794, Avg Test Acc Clean:0.7526, 
+  cannot      Avg Test Loss backdoor:0.089855, Avg Test Acc backdoor:0.9881, Best Acc:[91m0.7532 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 73m 30s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+25/30, Avg Train Loss:0.000474, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.511000, Avg Test Acc Clean:0.7527, 
+  cannot      Avg Test Loss backdoor:0.089813, Avg Test Acc backdoor:0.9881, Best Acc:[91m0.7532 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 76m 28s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+26/30, Avg Train Loss:0.000444, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.510222, Avg Test Acc Clean:0.7528, 
+  cannot      Avg Test Loss backdoor:0.089694, Avg Test Acc backdoor:0.9881, Best Acc:[91m0.7532 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 79m 24s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+27/30, Avg Train Loss:0.000420, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.508909, Avg Test Acc Clean:0.7531, 
+  cannot      Avg Test Loss backdoor:0.089503, Avg Test Acc backdoor:0.9881, Best Acc:[91m0.7532 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 82m 20s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+28/30, Avg Train Loss:0.000402, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.507108, Avg Test Acc Clean:0.7528, 
+  cannot      Avg Test Loss backdoor:0.089360, Avg Test Acc backdoor:0.9880, Best Acc:[91m0.7532 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 85m 18s
+Current learning rate:0.002500
+1, loading batches from test_loader
+2, loading batches from test_loader
+29/30, Avg Train Loss:0.000387, Avg Train Acc:1.0000, 
+        Avg Test Loss Clean:1.504972, Avg Test Acc Clean:0.7528, 
+  cannot      Avg Test Loss backdoor:0.089102, Avg Test Acc backdoor:0.9880, Best Acc:[91m0.7532 [0m,
+        Best Backdoor Acc:[91m0.9928 [0m
+Elapsed Time: 88m 15s
+Current learning rate:0.002500

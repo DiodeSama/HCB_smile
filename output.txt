@@ -1,0 +1,1 @@
+=== Finished run with --smooth_type brightness ===
